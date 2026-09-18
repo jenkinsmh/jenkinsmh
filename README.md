@@ -11,7 +11,7 @@ I'm an international consultant, policy advisor and political theorist. My work 
 
 ## Selected work
 
-- **ASEAN Regional Plan of Action on Women, Peace and Security (2022).** I led the research and drafting, and designed and facilitated the negotiations and consultations with all ten ASEAN member states and civil society.
+- **ASEAN Regional Plan of Action on Women, Peace and Security (2022).** I led the research and drafting, and designed and facilitated the negotiations and consultations with government delegates from ASEAN member states and with civil society.
 - **Trinidad and Tobago's first WPS National Action Plan.** I advised the government on developing the policy. The plan launched in December 2024 and was the first in the Caribbean.
 - **Gender and peacekeeping in ASEAN (UNDP Viet Nam).** I wrote a regional study and presented its findings to military and government representatives of the ten ASEAN member states.
 - **Data-driven research on gender equality.** I've run survey and field research in Ethiopia, Armenia, Azerbaijan and Georgia, including a study of women's unemployment that collected data from more than 3,000 households.
