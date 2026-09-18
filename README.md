@@ -16,6 +16,12 @@ I'm an international consultant, policy advisor and political theorist. My work 
 - **Gender and peacekeeping in ASEAN (UNDP Viet Nam).** I wrote a regional study and presented its findings to military and government representatives of the ten ASEAN member states.
 - **Data-driven research on gender equality.** I've run survey and field research in Ethiopia, Armenia, Azerbaijan and Georgia, including a study of women's unemployment that collected data from more than 3,000 households.
 
+## Current research interests
+
+- **Political theory and AI safety.** I apply John Rawls's work and political liberalism to questions about AI. One question is how to build values into AI that are strong enough to prevent harm but light enough to leave room for diverse views and freedom of thought. Another is how AI might shape who we become, in societies that disagree deeply about ideology, culture and morality.
+- **A new theory of international justice.** I'm developing a political liberal approach to international justice built on a new philosophical conception of the person, and I'm expanding it into a book.
+- **Women, Peace and Security in the age of AI.** I study how the WPS agenda can respond to the risks and opportunities AI creates for peace and security, including technology-facilitated harms.
+
 ## Building FairLair
 
 **[FairLair](https://github.com/jenkinsmh/fairlair-project)** is a mobile app that helps households and families see the work that keeps a home running. That includes chores, errands, childcare and emotional care. Each family sets the balance it's aiming for, and the app shows how the actual work compares. The idea is to give families something concrete to talk about instead of arguing from memory.
